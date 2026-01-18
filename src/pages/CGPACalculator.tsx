@@ -4,7 +4,7 @@ import Footer from '@/components/Footer';
 import CourseForm from '@/components/CourseForm';
 import CourseList from '@/components/CourseList';
 import CGPASummary from '@/components/CGPASummary';
-import SemesterGPAForm from '@/components/SemesterGPAForm';
+import SemesterGPAForm from '@/components/SemesterGpaForm';
 import ErrorBoundary from '@/components/ErrorBoundary';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { useCGPA, CalculationMode } from '@/context/CGPAContext';
